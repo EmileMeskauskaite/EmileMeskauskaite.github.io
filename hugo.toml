@@ -1,0 +1,4 @@
+baseURL = 'https://Emile.github.io'
+languageCode = 'en-us'
+title = 'My page'
+theme = "PaperMod"
