@@ -1,7 +1,7 @@
 [submodule "public"]
-    path = public
-    url = https://github.com/EmileMeskauskaite/EmileMeskauskaite.github.io.git
-    branch = main
+        path = public
+        url = https://github.com/EmileMeskauskaite/EmileMeskauskaite.github.io.git
+        branch = main
 [submodule "themes/papermod"]
-    path = themes/papermod
-    url = https://github.com/adityatelange/hugo-PaperMod.git
+        path = themes/papermod
+        url = https://github.com/adityatelange/hugo-PaperMod.git
